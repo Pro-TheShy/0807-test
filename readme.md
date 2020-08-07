@@ -67,3 +67,12 @@
 
 ## git branch 分支名
 1. 切换分支 
+
+## git merge 分支名
+1. 合并分支
+
+## git branch -d 分支名
+1. 删除分支
+
+## git branch -b 分支名
+1. 创建和切换分支
