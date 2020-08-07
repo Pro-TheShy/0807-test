@@ -63,6 +63,7 @@
 2. git pull 把远程代码拉取到本地
 3. :wq 退出编辑模式
 4. git clone 把远程仓库克隆到本地
+5. git fetch：相当于是从远程获取最新到本地，不会自动merge
 
 ## git branch
 1. 查看分支
